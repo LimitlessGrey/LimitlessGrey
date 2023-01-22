@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Francisco Stigliano AKA @LimitlessGrey
-- 👀 I’m interested in Engineering and Data Science
-- 🌱 I’m currently learning Data Science, Python, R, Machine Learning
-- 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me franciscostigliano@gmail.com
+## Greetings, I'm Francisco Stigliano! 😄
 
-<!---
-LimitlessGrey/LimitlessGrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+I'm an Anthropologist currently studying Mechanical Engineering at the University of Aveiro.   
+I have a big passion about Data Science and Software Development and have
+been learning all i can about both.
+Im also on the verge of starting my Dev journey with JavaScript.
+
+### 🛠 Skills
+- Python 🐍
+- SolidWorks
+- MatLab
+- Computer Vision
+- Data Engineering
+
+### 👩‍💻 Courses Im Enrolling:
+- Master in Mechanical Engineering 🦾
+- IBM Data Science Professional Certificate 📊
+
+### 🧠 I'm currently learning:
+- Mechanical Engineering
+- Data Science 📊
+- Non Linear Optimization 📈
+- Python 🐍
+
+### 📫 How to reach me:
+- franciscostigliano@gmail.com 📧
