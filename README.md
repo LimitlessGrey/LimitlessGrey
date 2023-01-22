@@ -18,7 +18,7 @@ Im also on the verge of starting my Dev journey with JavaScript.
 - IBM Data Science Professional Certificate 📊
 
 ### 🧠 I'm currently learning:
-- Mechanical Engineering
+- Mechanical Engineering 🦾
 - Data Science 📊
 - Non Linear Optimization 📈
 - Python 🐍
