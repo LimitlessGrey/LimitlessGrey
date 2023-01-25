@@ -8,6 +8,8 @@ Im also on the verge of starting my Dev journey with JavaScript.
 
 ### 🛠 Skills
 - Python 🐍
+- Linux
+- Jupyter Notebook
 - SolidWorks
 - MatLab
 - Computer Vision
