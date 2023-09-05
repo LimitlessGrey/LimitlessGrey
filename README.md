@@ -18,7 +18,6 @@ Hit me up if you have any positions for me, not as worried about the pay as I am
 
 ### 👩‍💻 Courses Im Enrolling:
 - Master in Mechanical Engineering 🦾
-- IBM Data Science Professional Certificate 📊
 
 ### 🧠 I'm currently learning:
 - Mechanical Engineering 🦾
@@ -26,6 +25,7 @@ Hit me up if you have any positions for me, not as worried about the pay as I am
 - Data Science 📊
 - Non Linear Optimization 📈
 - Python 🐍
+- Operations Management
 
 ### 📫 How to reach me:
 - franciscostigliano@gmail.com 📧
