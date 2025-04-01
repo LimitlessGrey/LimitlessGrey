@@ -30,3 +30,4 @@ Hit me up if you have any positions for me, not as worried about the pay as I am
 
 ### 📫 How to reach me:
 - franciscostigliano@gmail.com 📧
+- https://www.linkedin.com/in/franciscostigliano/
